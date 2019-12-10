@@ -55,6 +55,16 @@ form h1{
     padding: 0px !important;
 }
 
+.w-50-o{
+    width: 50%;
+}
+
+@media (max-width: 700px){
+    form{
+        width: 100% !important;
+    }
+}
+
 .footer-home{
     position: absolute;
     bottom: 0px !important;
